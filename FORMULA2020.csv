@@ -1,0 +1,181 @@
+,Position,Driver,Car,Laps,Points,Circuit,Year,Total_Time
+0,1,Max Verstappen,Red Bull Racing Honda,55,25,Abu Dhabi,2020,5788.645
+1,2,Valtteri Bottas,Mercedes,55,18,Abu Dhabi,2020,5804.621
+2,3,Lewis Hamilton,Mercedes,55,15,Abu Dhabi,2020,5807.06
+3,4,Alexander Albon,Red Bull Racing Honda,55,12,Abu Dhabi,2020,5808.6320000000005
+4,5,Lando Norris,McLaren Renault,55,10,Abu Dhabi,2020,5849.374000000001
+5,6,Carlos Sainz,McLaren Renault,55,8,Abu Dhabi,2020,5854.307000000001
+6,7,Daniel Ricciardo,Renault,55,7,Abu Dhabi,2020,5862.393
+7,8,Pierre Gasly,AlphaTauri Honda,55,4,Abu Dhabi,2020,5878.363
+8,9,Esteban Ocon,Renault,55,2,Abu Dhabi,2020,5889.714000000001
+9,10,Lance Stroll,Racing Point BWT Mercedes,55,1,Abu Dhabi,2020,5891.383000000001
+0,1,Valtteri Bottas,Mercedes,71,25,Austria,2020,5455.739
+1,2,Charles Leclerc,Ferrari,71,18,Austria,2020,5458.438999999999
+2,3,Lando Norris,McLaren Renault,71,16,Austria,2020,5461.23
+3,4,Lewis Hamilton,Mercedes,71,12,Austria,2020,5461.428
+4,5,Carlos Sainz,McLaren Renault,71,10,Austria,2020,5464.642
+5,6,Sergio Perez,Racing Point BWT Mercedes,71,8,Austria,2020,5470.830999999999
+6,7,Pierre Gasly,AlphaTauri Honda,71,6,Austria,2020,5472.420999999999
+7,8,Esteban Ocon,Renault,71,4,Austria,2020,5473.195
+8,9,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,71,2,Austria,2020,5476.884999999999
+9,10,Sebastian Vettel,Ferrari,71,1,Austria,2020,5480.284
+10,11,Nicholas Latifi,Williams Mercedes,71,0,Austria,2020,5487.388999999999
+0,1,Lewis Hamilton,Mercedes,57,25,Bahrain,2020,10787.515
+1,2,Max Verstappen,Red Bull Racing Honda,57,19,Bahrain,2020,10788.769
+2,3,Alexander Albon,Red Bull Racing Honda,57,15,Bahrain,2020,10795.519999999999
+3,4,Lando Norris,McLaren Renault,57,12,Bahrain,2020,10798.851999999999
+4,5,Carlos Sainz,McLaren Renault,57,10,Bahrain,2020,10799.302
+5,6,Pierre Gasly,AlphaTauri Honda,57,8,Bahrain,2020,10799.456999999999
+6,7,Daniel Ricciardo,Renault,57,6,Bahrain,2020,10806.883
+7,8,Valtteri Bottas,Mercedes,57,4,Bahrain,2020,10807.195
+8,9,Esteban Ocon,Renault,57,2,Bahrain,2020,10810.318
+0,1,Lewis Hamilton,Mercedes,44,25,Belgium,2020,5048.761
+1,2,Valtteri Bottas,Mercedes,44,18,Belgium,2020,5057.209000000001
+2,3,Max Verstappen,Red Bull Racing Honda,44,15,Belgium,2020,5064.216
+3,4,Daniel Ricciardo,Renault,44,13,Belgium,2020,5067.638000000001
+4,5,Esteban Ocon,Renault,44,10,Belgium,2020,5089.411
+5,6,Alexander Albon,Red Bull Racing Honda,44,8,Belgium,2020,5091.473000000001
+6,7,Lando Norris,McLaren Renault,44,6,Belgium,2020,5092.535000000001
+7,8,Pierre Gasly,AlphaTauri Honda,44,4,Belgium,2020,5096.1320000000005
+8,9,Lance Stroll,Racing Point BWT Mercedes,44,2,Belgium,2020,5101.3640000000005
+9,10,Sergio Perez,Racing Point BWT Mercedes,44,1,Belgium,2020,5101.9400000000005
+10,11,Daniil Kvyat,AlphaTauri Honda,44,0,Belgium,2020,5118.961
+11,12,Kimi Räikkönen,Alfa Romeo Racing Ferrari,44,0,Belgium,2020,5120.265
+12,13,Sebastian Vettel,Ferrari,44,0,Belgium,2020,5121.655000000001
+13,14,Charles Leclerc,Ferrari,44,0,Belgium,2020,5123.6810000000005
+14,15,Romain Grosjean,Haas Ferrari,44,0,Belgium,2020,5125.554
+15,16,Nicholas Latifi,Williams Mercedes,44,0,Belgium,2020,5126.5560000000005
+16,17,Kevin Magnussen,Haas Ferrari,44,0,Belgium,2020,5134.301
+19,NC,Carlos Sainz,McLaren Renault,0,0,Belgium,2020,5048.761
+0,1,Lewis Hamilton,Mercedes,60,25,Eifel,2020,5749.641
+1,2,Max Verstappen,Red Bull Racing Honda,60,19,Eifel,2020,5754.111
+2,3,Daniel Ricciardo,Renault,60,15,Eifel,2020,5764.254
+3,4,Sergio Perez,Racing Point BWT Mercedes,60,12,Eifel,2020,5765.710999999999
+4,5,Carlos Sainz,McLaren Renault,60,10,Eifel,2020,5771.545999999999
+5,6,Pierre Gasly,AlphaTauri Honda,60,8,Eifel,2020,5772.406999999999
+6,7,Charles Leclerc,Ferrari,60,6,Eifel,2020,5780.455
+7,8,Nico Hulkenberg,Racing Point BWT Mercedes,60,4,Eifel,2020,5782.236999999999
+8,9,Romain Grosjean,Haas Ferrari,60,2,Eifel,2020,5788.722
+9,10,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,60,1,Eifel,2020,5789.6759999999995
+10,11,Sebastian Vettel,Ferrari,60,0,Eifel,2020,5790.451
+11,12,Kimi Räikkönen,Alfa Romeo Racing Ferrari,60,0,Eifel,2020,5791.116999999999
+12,13,Kevin Magnussen,Haas Ferrari,60,0,Eifel,2020,5799.226
+13,14,Nicholas Latifi,Williams Mercedes,60,0,Eifel,2020,5804.089999999999
+14,15,Daniil Kvyat,AlphaTauri Honda,60,0,Eifel,2020,5805.228999999999
+0,1,Lewis Hamilton,Mercedes,63,26,Emilia Romagna,2020,5312.43
+1,2,Valtteri Bottas,Mercedes,63,18,Emilia Romagna,2020,5318.213000000001
+2,3,Daniel Ricciardo,Renault,63,15,Emilia Romagna,2020,5326.75
+3,4,Daniil Kvyat,AlphaTauri Honda,63,12,Emilia Romagna,2020,5327.571
+4,5,Charles Leclerc,Ferrari,63,10,Emilia Romagna,2020,5331.541
+5,6,Sergio Perez,Racing Point BWT Mercedes,63,8,Emilia Romagna,2020,5332.082
+6,7,Carlos Sainz,McLaren Renault,63,6,Emilia Romagna,2020,5332.66
+7,8,Lando Norris,McLaren Renault,63,4,Emilia Romagna,2020,5333.561000000001
+8,9,Kimi Räikkönen,Alfa Romeo Racing Ferrari,63,2,Emilia Romagna,2020,5334.654
+9,10,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,63,1,Emilia Romagna,2020,5338.828
+10,11,Nicholas Latifi,Williams Mercedes,63,0,Emilia Romagna,2020,5339.5650000000005
+11,12,Sebastian Vettel,Ferrari,63,0,Emilia Romagna,2020,5340.883000000001
+12,13,Lance Stroll,Racing Point BWT Mercedes,63,0,Emilia Romagna,2020,5341.593
+13,14,Romain Grosjean,Haas Ferrari,63,0,Emilia Romagna,2020,5345.365000000001
+14,15,Alexander Albon,Red Bull Racing Honda,63,0,Emilia Romagna,2020,5369.714
+0,1,Lewis Hamilton,Mercedes,52,25,Britain,2020,5281.283
+1,2,Max Verstappen,Red Bull Racing Honda,52,19,Britain,2020,5287.139
+2,3,Charles Leclerc,Ferrari,52,15,Britain,2020,5299.7570000000005
+3,4,Daniel Ricciardo,Renault,52,12,Britain,2020,5300.933
+4,5,Lando Norris,McLaren Renault,52,10,Britain,2020,5303.56
+5,6,Esteban Ocon,Renault,52,8,Britain,2020,5308.22
+6,7,Pierre Gasly,AlphaTauri Honda,52,6,Britain,2020,5312.4710000000005
+7,8,Alexander Albon,Red Bull Racing Honda,52,4,Britain,2020,5313.953
+8,9,Lance Stroll,Racing Point BWT Mercedes,52,2,Britain,2020,5318.594
+9,10,Sebastian Vettel,Ferrari,52,1,Britain,2020,5323.14
+10,11,Valtteri Bottas,Mercedes,52,0,Britain,2020,5323.450000000001
+11,12,George Russell,Williams Mercedes,52,0,Britain,2020,5333.287
+12,13,Carlos Sainz,McLaren Renault,52,0,Britain,2020,5334.653
+13,14,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,52,0,Britain,2020,5335.488
+14,15,Nicholas Latifi,Williams Mercedes,52,0,Britain,2020,5335.832
+15,16,Romain Grosjean,Haas Ferrari,52,0,Britain,2020,5336.3330000000005
+19,NC,Nico Hulkenberg,Racing Point BWT Mercedes,0,0,Britain,2020,5281.283
+0,1,Lewis Hamilton,Mercedes,70,26,Hungary,2020,5772.473
+1,2,Max Verstappen,Red Bull Racing Honda,70,18,Hungary,2020,5781.175
+2,3,Valtteri Bottas,Mercedes,70,15,Hungary,2020,5781.925
+3,4,Lance Stroll,Racing Point BWT Mercedes,70,12,Hungary,2020,5830.052
+4,5,Alexander Albon,Red Bull Racing Honda,70,10,Hungary,2020,5850.789
+0,1,Pierre Gasly,AlphaTauri Honda,53,25,Italy,2020,6426.056
+1,2,Carlos Sainz,McLaren Renault,53,18,Italy,2020,6426.471
+2,3,Lance Stroll,Racing Point BWT Mercedes,53,15,Italy,2020,6429.414
+3,4,Lando Norris,McLaren Renault,53,12,Italy,2020,6432.056
+4,5,Valtteri Bottas,Mercedes,53,10,Italy,2020,6433.164
+5,6,Daniel Ricciardo,Renault,53,8,Italy,2020,6434.446999999999
+6,7,Lewis Hamilton,Mercedes,53,7,Italy,2020,6443.3009999999995
+7,8,Esteban Ocon,Renault,53,4,Italy,2020,6444.746999999999
+8,9,Daniil Kvyat,AlphaTauri Honda,53,2,Italy,2020,6448.263999999999
+9,10,Sergio Perez,Racing Point BWT Mercedes,53,1,Italy,2020,6449.28
+10,11,Nicholas Latifi,Williams Mercedes,53,0,Italy,2020,6458.932
+11,12,Romain Grosjean,Haas Ferrari,53,0,Italy,2020,6461.219999999999
+12,13,Kimi Räikkönen,Alfa Romeo Racing Ferrari,53,0,Italy,2020,6462.3679999999995
+13,14,George Russell,Williams Mercedes,53,0,Italy,2020,6462.648999999999
+14,15,Alexander Albon,Red Bull Racing Honda,53,0,Italy,2020,6463.589
+15,16,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,53,0,Italy,2020,6481.254999999999
+0,1,Lewis Hamilton,Mercedes,66,26,Portugal,2020,5396.828
+1,2,Valtteri Bottas,Mercedes,66,18,Portugal,2020,5422.42
+2,3,Max Verstappen,Red Bull Racing Honda,66,15,Portugal,2020,5431.336
+3,4,Charles Leclerc,Ferrari,66,12,Portugal,2020,5462.14
+0,1,Valtteri Bottas,Mercedes,53,26,Russia,2020,5640.364
+1,2,Max Verstappen,Red Bull Racing Honda,53,18,Russia,2020,5648.093
+2,3,Lewis Hamilton,Mercedes,53,15,Russia,2020,5663.093
+3,4,Sergio Perez,Racing Point BWT Mercedes,53,12,Russia,2020,5670.922
+4,5,Daniel Ricciardo,Renault,53,10,Russia,2020,5692.428999999999
+5,6,Charles Leclerc,Ferrari,53,8,Russia,2020,5702.549999999999
+6,7,Esteban Ocon,Renault,53,6,Russia,2020,5708.37
+7,8,Daniil Kvyat,AlphaTauri Honda,53,4,Russia,2020,5709.103999999999
+8,9,Pierre Gasly,AlphaTauri Honda,53,2,Russia,2020,5730.129999999999
+9,10,Alexander Albon,Red Bull Racing Honda,53,1,Russia,2020,5738.223999999999
+0,1,Sergio Perez,Racing Point BWT Mercedes,87,25,Sakhir,2020,5475.114
+1,2,Esteban Ocon,Renault,87,18,Sakhir,2020,5485.632
+2,3,Lance Stroll,Racing Point BWT Mercedes,87,15,Sakhir,2020,5486.982999999999
+3,4,Carlos Sainz,McLaren Renault,87,12,Sakhir,2020,5487.6939999999995
+4,5,Daniel Ricciardo,Renault,87,10,Sakhir,2020,5488.4439999999995
+5,6,Alexander Albon,Red Bull Racing Honda,87,8,Sakhir,2020,5488.955999999999
+6,7,Daniil Kvyat,AlphaTauri Honda,87,6,Sakhir,2020,5489.647999999999
+7,8,Valtteri Bottas,Mercedes,87,4,Sakhir,2020,5490.503
+8,9,George Russell,Mercedes,87,3,Sakhir,2020,5493.669999999999
+9,10,Lando Norris,McLaren Renault,87,1,Sakhir,2020,5494.655
+10,11,Pierre Gasly,AlphaTauri Honda,87,0,Sakhir,2020,5495.641
+11,12,Sebastian Vettel,Ferrari,87,0,Sakhir,2020,5497.724999999999
+12,13,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,87,0,Sakhir,2020,5499.224999999999
+13,14,Kimi Räikkönen,Alfa Romeo Racing Ferrari,87,0,Sakhir,2020,5501.267
+14,15,Kevin Magnussen,Haas Ferrari,87,0,Sakhir,2020,5507.4839999999995
+15,16,Jack Aitken,Williams Mercedes,87,0,Sakhir,2020,5508.788
+16,17,Pietro Fittipaldi,Haas Ferrari,87,0,Sakhir,2020,5511.972
+0,1,Lewis Hamilton,Mercedes,71,25,Styria,2020,4970.683
+1,2,Valtteri Bottas,Mercedes,71,18,Styria,2020,4984.402
+2,3,Max Verstappen,Red Bull Racing Honda,71,15,Styria,2020,5004.381
+3,4,Alexander Albon,Red Bull Racing Honda,71,12,Styria,2020,5015.083
+4,5,Lando Norris,McLaren Renault,71,10,Styria,2020,5032.153
+5,6,Sergio Perez,Racing Point BWT Mercedes,71,8,Styria,2020,5033.07
+6,7,Lance Stroll,Racing Point BWT Mercedes,71,6,Styria,2020,5033.136
+7,8,Daniel Ricciardo,Renault,71,4,Styria,2020,5033.274
+0,1,Lewis Hamilton,Mercedes,66,25,Spain,2020,5505.279
+1,2,Max Verstappen,Red Bull Racing Honda,66,18,Spain,2020,5529.456
+2,3,Valtteri Bottas,Mercedes,66,16,Spain,2020,5550.031000000001
+0,1,Lewis Hamilton,Mercedes,58,25,Turkey,2020,6139.313
+1,2,Sergio Perez,Racing Point BWT Mercedes,58,18,Turkey,2020,6170.946
+2,3,Sebastian Vettel,Ferrari,58,15,Turkey,2020,6171.273
+3,4,Charles Leclerc,Ferrari,58,12,Turkey,2020,6173.171
+4,5,Carlos Sainz,McLaren Renault,58,10,Turkey,2020,6173.676
+5,6,Max Verstappen,Red Bull Racing Honda,58,8,Turkey,2020,6184.186
+6,7,Alexander Albon,Red Bull Racing Honda,58,6,Turkey,2020,6185.7970000000005
+7,8,Lando Norris,McLaren Renault,58,5,Turkey,2020,6200.572
+8,9,Lance Stroll,Racing Point BWT Mercedes,58,2,Turkey,2020,6211.666
+9,10,Daniel Ricciardo,Renault,58,1,Turkey,2020,6234.773
+0,1,Lewis Hamilton,Mercedes,59,26,Tuscany,2020,8375.06
+1,2,Valtteri Bottas,Mercedes,59,18,Tuscany,2020,8379.939999999999
+2,3,Alexander Albon,Red Bull Racing Honda,59,15,Tuscany,2020,8383.124
+3,4,Daniel Ricciardo,Renault,59,12,Tuscany,2020,8385.476999999999
+4,5,Sergio Perez,Racing Point BWT Mercedes,59,10,Tuscany,2020,8390.71
+5,6,Lando Norris,McLaren Renault,59,8,Tuscany,2020,8393.943
+6,7,Daniil Kvyat,AlphaTauri Honda,59,6,Tuscany,2020,8396.815999999999
+7,8,Charles Leclerc,Ferrari,59,4,Tuscany,2020,8403.404999999999
+8,9,Kimi Räikkönen,Alfa Romeo Racing Ferrari,59,2,Tuscany,2020,8404.83
+9,10,Sebastian Vettel,Ferrari,59,1,Tuscany,2020,8405.043
+10,11,George Russell,Williams Mercedes,59,0,Tuscany,2020,8407.464
+11,12,Romain Grosjean,Haas Ferrari,59,0,Tuscany,2020,8417.096
